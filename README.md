@@ -1,1 +1,1 @@
-# 1Hive Celeste helper contracts and utilties
+# 1Hive Celeste helper contracts and utilties for upgradeable contracts
